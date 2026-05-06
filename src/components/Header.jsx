@@ -51,7 +51,7 @@ export default function Header() {
             <path d="M12 12 2.1 7.1"/>
             <path d="M12 12l9.9 4.9"/>
           </svg>
-          Pumakawa
+          Pumakawaaa
         </a>
 
         {/* Desktop Nav */}
